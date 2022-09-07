@@ -1,11 +1,9 @@
-# Brenda Ekemezie & Doye Solomon
-
 ### Description
 
 A simple UNIX command interpreter that replicates functionalities of the simple shell (sh) with some additional functions. This program was written in C as a milestone project for the ALX Africa Software Engineering program
 
-### Installat
-Clone this rpository into your working directory. For best results, files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -std=gnu89
+### Installation
+Clone this repository into your working directory. For best results, files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -std=gnu89
 
 ### Usage
 
@@ -30,7 +28,8 @@ In non-interactive mode, the program will exit after finishing your desired comm
 Our shell has support for the following built-in commands:
 
 | Command             | Definition                                                                                |
-| ------------------- | ----------------------------------------------------------------------------------------- |
+| ------------------- | --------
+--------------------------------------------------------------------------------- |
 | exit [n]            | Exit the shell, with an optional exit status, n.                                          |
 | env                 | Print the environment.                                                                    |
 | setenv [var][value] | Set an environment variable and value. If the variable exists, the value will be updated. |
